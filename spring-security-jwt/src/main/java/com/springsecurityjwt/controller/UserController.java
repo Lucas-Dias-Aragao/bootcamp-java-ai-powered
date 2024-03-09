@@ -18,3 +18,6 @@ public class UserController {
         service.createUser(user);
     }
 }
+
+
+// https://github.com/digitalinnovationone/dio-springboot/tree/main/dio-spring-security-jwt/src/main/java/dio/dio/spring/security/jwt

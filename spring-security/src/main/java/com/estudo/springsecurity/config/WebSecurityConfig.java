@@ -1,4 +1,4 @@
-package com.estudo.springsecurity;
+package com.estudo.springsecurity.config;
 
 import com.estudo.springsecurity.config.SecurityDatabaseService;
 import org.springframework.beans.factory.annotation.Autowired;
