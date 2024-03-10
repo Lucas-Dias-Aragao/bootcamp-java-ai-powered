@@ -43,7 +43,7 @@
 
 | Desafio | Repositório |
 | ------- | ----------- |
-| Explorando Padrões de Projetos na Prática com Java | [Projeto]() |
+| Explorando Padrões de Projetos na Prática com Java | [Projeto](https://github.com/Lucas-Dias-Aragao/bootcamp-java-ai-powered/tree/main/explorando_padroes_de_projeto) |
 | Desenvolvendo um Sistema para Eleição Usando Quarkus Framework | [Projeto]() |
 | Redução dos Custos em Farmácias com AWS | [Projeto]() |
 | Publicando API Rest na nuvem usando Spring Boot 3, Java 17 e Railway | [Projeto]() |
