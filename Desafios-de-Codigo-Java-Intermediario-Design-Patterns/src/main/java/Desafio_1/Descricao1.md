@@ -28,15 +28,18 @@ Exemplos
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. 
 Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
-| Entrada	| Saída |
-|2          |           |
-|Ada        | 1 - Ada   |
-|Linus	    | 2 - Linus |
+| Entrada	 | Saída |
+|----------| ---------|
+| 2        |          |
+| Ada      | 1 - Ada  |
+| Linus	   | 2 - Linus |
              
-|3          |            |
-|Grace      | 1 - Grace  |
-|Alan       | 2 - Alan   |
-|Steve	    | 3 - Steve  |
+|Entrada     | Saída       |
+|------------|-------------|
+| 3          |             |
+| Grace      | 1 - Grace   |
+| Alan       | 2 - Alan    |
+| Steve      |   3 - Steve |
 
 
 
