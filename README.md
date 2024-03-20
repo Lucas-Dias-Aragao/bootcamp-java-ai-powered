@@ -34,7 +34,7 @@
 
 | Desafio | Repositório |
 | ------- | ----------- |
-| Desafios de código Java intermediário: Design Patterns | [Desafio]()|
+| Desafios de código Java intermediário: Design Patterns | [Desafio](https://github.com/Lucas-Dias-Aragao/bootcamp-java-ai-powered/tree/main/Desafios-de-Codigo-Java-Intermediario-Design-Patterns)|
 | Desafios de código Java intermediário: S.O.L.I.D | [Desafio]()|
 
 <br>
